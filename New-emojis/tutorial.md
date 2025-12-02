@@ -1,4 +1,5 @@
 Some new emojis had been added to this server. You can get the code from this directory.. just try to find files end with '.java' extension.
+
 **For Android or Iphone users:**
 (1) Copy and paste the above code in an online java compiler,
 (2) Erase the `Emoji_updates_of_this_discord_server` and write `Main` [it is case-sensitive by the way],
