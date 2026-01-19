@@ -1,13 +1,15 @@
 public class Emoji_updates_of_this_discord_server { 
     public static void main(String[] args) { 
-        String emoji1 = ":cabbagetic:";
-        String emoji2 = ":cabbage1_by_gemini:";
-        String emoji3 = ":cabbage2_by_gemini:";
-        String emoji4 = ":Sitting_MC_Red_parrot:";
-        String emoji5 = ":Sitting_MC_Green_parrot:";
-        String emoji6 = ":Sitting_MC_Gray_parrot:";
-        String emoji7 = ":Sitting_MC_Blue_parrot:";
-        String emoji8 = ":Sitting_MC_Cyan_parrot:";
+        String emoji10 = ":cabbagetic:";
+        String emoji8 = ":cabbage1_by_gemini:";
+        String emoji9 = ":cabbage2_by_gemini:";
+        String emoji7 = ":Sitting_MC_Red_parrot:";
+        String emoji4 = ":Sitting_MC_Green_parrot:";
+        String emoji5 = ":Sitting_MC_Gray_parrot:";
+        String emoji6 = ":Sitting_MC_Blue_parrot:";
+        String emoji3 = ":Sitting_MC_Cyan_parrot:";
+        String emoji1 = ":Server_Renovation:";
+        String emoji2 = ":Server_Renovation_blur:";
         System.out.println("1st Emoji Name is " + emoji1);
         System.out.println("2nd Emoji Name is " + emoji2);
         System.out.println("3rd Emoji Name is " + emoji3);
