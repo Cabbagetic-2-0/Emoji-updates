@@ -18,5 +18,7 @@ public class Emoji_updates_of_this_discord_server {
         System.out.println("6th Emoji Name is " + emoji6);
         System.out.println("7th Emoji Name is " + emoji7);
         System.out.println("8th Emoji Name is " + emoji8);
+        System.out.println("9th Emoji Name is " + emoji9);
+        System.out.println("10th Emoji Name is " + emoji10);
     }
 }
